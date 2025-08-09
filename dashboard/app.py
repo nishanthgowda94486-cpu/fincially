@@ -520,38 +520,3 @@ else:
         </p>
     </div>
     """, unsafe_allow_html=True)
-    if manufacturers:
-        agg = agg.sort_values(['Manufacturer', 'Vehicle Category', 'Year'])
-        agg['Prev_Registrations'] = agg.groupby(['Manufacturer', 'Vehicle Category'])['Registrations'].shift(1)
-        agg['YoY_Growth_%'] = ((agg['Registrations'] - agg['Prev_Registrations']) / agg['Prev_Registrations'] * 100).round(2)
-        st.dataframe(agg[['Year', 'Vehicle Category', 'Manufacturer', 'Registrations', 'YoY_Growth_%']])
-        fig2 = px.line(agg, x='Year', y='YoY_Growth_%', color='Manufacturer', line_dash='Vehicle Category', markers=True)
-        st.plotly_chart(fig2, use_container_width=True)
-    else:
-        agg = agg.sort_values(['Vehicle Category', 'Year'])
-        agg['Prev_Registrations'] = agg.groupby('Vehicle Category')['Registrations'].shift(1)
-        agg['YoY_Growth_%'] = ((agg['Registrations'] - agg['Prev_Registrations']) / agg['Prev_Registrations'] * 100).round(2)
-        st.dataframe(agg[['Year', 'Vehicle Category', 'Registrations', 'YoY_Growth_%']])
-        fig2 = px.line(agg, x='Year', y='YoY_Growth_%', color='Vehicle Category', markers=True)
-        st.plotly_chart(fig2, use_container_width=True)
-
-    # QoQ Growth Calculation
-    st.subheader("Quarter-over-Quarter (QoQ) Growth")
-    if manufacturers:
-        agg_q = filtered.groupby(['Quarter', 'Vehicle Category', 'Manufacturer'], as_index=False)['Registrations'].sum()
-        agg_q = agg_q.sort_values(['Manufacturer', 'Vehicle Category', 'Quarter'])
-        agg_q['Prev_Registrations'] = agg_q.groupby(['Manufacturer', 'Vehicle Category'])['Registrations'].shift(1)
-        agg_q['QoQ_Growth_%'] = ((agg_q['Registrations'] - agg_q['Prev_Registrations']) / agg_q['Prev_Registrations'] * 100).round(2)
-        st.dataframe(agg_q[['Quarter', 'Vehicle Category', 'Manufacturer', 'Registrations', 'QoQ_Growth_%']])
-        fig3 = px.line(agg_q, x='Quarter', y='QoQ_Growth_%', color='Manufacturer', line_dash='Vehicle Category', markers=True)
-        st.plotly_chart(fig3, use_container_width=True)
-    else:
-        agg_q = filtered.groupby(['Quarter', 'Vehicle Category'], as_index=False)['Registrations'].sum()
-        agg_q = agg_q.sort_values(['Vehicle Category', 'Quarter'])
-        agg_q['Prev_Registrations'] = agg_q.groupby('Vehicle Category')['Registrations'].shift(1)
-        agg_q['QoQ_Growth_%'] = ((agg_q['Registrations'] - agg_q['Prev_Registrations']) / agg_q['Prev_Registrations'] * 100).round(2)
-        st.dataframe(agg_q[['Quarter', 'Vehicle Category', 'Registrations', 'QoQ_Growth_%']])
-        fig3 = px.line(agg_q, x='Quarter', y='QoQ_Growth_%', color='Vehicle Category', markers=True)
-        st.plotly_chart(fig3, use_container_width=True)
-else:
-    st.info("Please add the required data CSV in the project root or data folder.")
