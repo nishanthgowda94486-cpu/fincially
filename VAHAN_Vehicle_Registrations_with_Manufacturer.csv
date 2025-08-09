@@ -1,0 +1,501 @@
+Date (date),State Name (state_name),State Code (state_code),RTO Name (office_name),RTO Code (office_code),Vehicle Category (vehicle_type),Manufacturer,Categorized By (category),Registrations (registrations)
+2023-11-01,Tamil Nadu,33,Vaniyambadi Rto,TN515,Medium Goods Vehicle,Maruti,Vehicle Category,3.0
+2020-09-01,Uttarakhand,5,Tanakpur Arto,UK3,Three Wheeler(T),Honda,Vehicle Category,9.0
+2022-03-01,Tamil Nadu,33,Vedachandur Uo,TN617,Light Goods Vehicle,Tata,Vehicle Category,7.0
+2023-04-01,Arunachal Pradesh,12,Changlang,AR12,Heavy Goods Vehicle,Mahindra,Vehicle Category,4.0
+2020-11-01,Chhattisgarh,22,Gariyaband Dto,CG23,Light Goods Vehicle,Bajaj,Vehicle Category,7.0
+2024-04-01,Gujarat,24,Vadodara,GJ6,Other Than Mentioned Above,Hero,Vehicle Category,47.0
+2020-05-01,Sikkim,11,Pakyong,SK7,Light Passenger Vehicle,Hyundai,Vehicle Category,2.0
+2020-10-01,Mizoram,15,Serchhip,MZ6,Three Wheeler(T),Maruti,Vehicle Category,12.0
+2020-09-01,Madhya Pradesh,23,Narsinghpur Dto,MP49,Light Goods Vehicle,Honda,Vehicle Category,5.0
+2024-05-01,Gujarat,24,Tapi,GJ26,Light Passenger Vehicle,Tata,Vehicle Category,2.0
+2022-10-01,West Bengal,19,Jalpaiguri Rto,WB71,Heavy Passenger Vehicle,Mahindra,Vehicle Category,1.0
+2023-05-01,Karnataka,29,Bengaluru East Rto,KA3,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2022-11-01,Himachal Pradesh,2,Rla Chamba,HP48,Light Motor Vehicle,Hero,Vehicle Category,23.0
+2023-12-01,Meghalaya,17,Khliehriat,ML11,Light Goods Vehicle,Hyundai,Vehicle Category,17.0
+2021-06-01,Maharashtra,27,Pune,MH12,Four Wheeler (Invalid Carriage),Maruti,Vehicle Category,2.0
+2022-12-01,West Bengal,19,Bankura Rto,WB67,Heavy Passenger Vehicle,Honda,Vehicle Category,1.0
+2019-02-01,Chhattisgarh,22,Korba Dto,CG12,Medium Goods Vehicle,Tata,Vehicle Category,1.0
+2021-02-01,Haryana,6,Ballabgarh,HR29,Medium Motor Vehicle,Mahindra,Vehicle Category,4.0
+2023-12-01,Jharkhand,20,Dto Office Dumka,JH4,Other Than Mentioned Above,Bajaj,Vehicle Category,1.0
+2019-05-01,Maharashtra,27,Kolhapur,MH9,Two Wheeler(Nt),Hero,Vehicle Category,6817.0
+2024-02-01,Assam,18,Hailakandi,AS24,Three Wheeler(T),Hyundai,Vehicle Category,176.0
+2019-02-01,Jammu And Kashmir,1,Samba Arto,JK21,Light Motor Vehicle,Maruti,Vehicle Category,256.0
+2021-09-01,Tamil Nadu,33,Valparai Uo,TN633,Light Goods Vehicle,Honda,Vehicle Category,4.0
+2022-03-01,Karnataka,29,Tumkur Rto,KA6,Two Wheeler (Invalid Carriage),Tata,Vehicle Category,1.0
+2024-05-01,Uttar Pradesh,9,Hamirpur(Up),UP91,Light Motor Vehicle,Mahindra,Vehicle Category,190.0
+2020-12-01,Jharkhand,20,Bokaro,JH9,Heavy Motor Vehicle,Bajaj,Vehicle Category,3.0
+2024-03-01,Tamil Nadu,33,Perambalur Rto,TN46,Light Goods Vehicle,Hero,Vehicle Category,32.0
+2023-11-01,Rajasthan,8,Kishangarh Dto,RJ42,Heavy Goods Vehicle,Hyundai,Vehicle Category,32.0
+2024-04-01,Punjab,3,Rto Barnala,PB19,Three Wheeler(T),Maruti,Vehicle Category,28.0
+2020-02-01,Bihar,10,Nawada,BR27,Medium Goods Vehicle,Honda,Vehicle Category,9.0
+2021-03-01,Madhya Pradesh,23,Jabalpur Rto,MP20,Light Passenger Vehicle,Tata,Vehicle Category,36.0
+2022-03-01,Tamil Nadu,33,Paramathi Vellure Uo,TN517,Heavy Goods Vehicle,Mahindra,Vehicle Category,12.0
+2023-01-01,Rajasthan,8,Pipar City Dto,RJ54,Three Wheeler(T),Bajaj,Vehicle Category,12.0
+2020-12-01,Madhya Pradesh,23,Singroli Dto,MP66,Medium Motor Vehicle,Hero,Vehicle Category,8.0
+2021-02-01,Kerala,32,Changanacherry Srto,KL33,Medium Goods Vehicle,Hyundai,Vehicle Category,2.0
+2022-05-01,Odisha,21,Angul Rto,OR19,Three Wheeler(T),Maruti,Vehicle Category,9.0
+2021-04-01,Kerala,32,Karunagappally Srto,KL23,Two Wheeler(Nt),Honda,Vehicle Category,853.0
+2021-06-01,Kerala,32,Trivandrum Rto,KL1,Heavy Goods Vehicle,Tata,Vehicle Category,2.0
+2022-04-01,Rajasthan,8,Sahapura (Jaipur) Dto,RJ52,Light Goods Vehicle,Mahindra,Vehicle Category,24.0
+2019-08-01,Madhya Pradesh,23,Indore Rto,MP9,Medium Goods Vehicle,Bajaj,Vehicle Category,5.0
+2023-02-01,Karnataka,29,Electronic City Rto,KA51,Heavy Passenger Vehicle,Hero,Vehicle Category,19.0
+2020-04-01,Uttar Pradesh,9,Pilibhit,UP26,Medium Passenger Vehicle,Hyundai,Vehicle Category,5.0
+2020-03-01,Manipur,14,Senapati,MN8,Heavy Goods Vehicle,Maruti,Vehicle Category,1.0
+2024-05-01,Madhya Pradesh,23,Niwari Dto,MP71,Other Than Mentioned Above,Honda,Vehicle Category,2.0
+2023-06-01,Maharashtra,27,Satara,MH11,Other Than Mentioned Above,Tata,Vehicle Category,24.0
+2019-01-01,Goa,30,Ponda Rto,GA5,Medium Goods Vehicle,Mahindra,Vehicle Category,1.0
+2021-02-01,Haryana,6,Tosham,HR48,Other Than Mentioned Above,Bajaj,Vehicle Category,1.0
+2020-03-01,Himachal Pradesh,2,Rla Nadaun,HP55,Light Goods Vehicle,Hero,Vehicle Category,4.0
+2020-12-01,Jammu And Kashmir,1,Anantnag Arto,JK3,Other Than Mentioned Above,Hyundai,Vehicle Category,2.0
+2021-07-01,Assam,18,Kokrajhar,AS16,Light Passenger Vehicle,Maruti,Vehicle Category,15.0
+2019-06-01,Bihar,10,Buxur,BR44,Three Wheeler(T),Honda,Vehicle Category,15.0
+2023-05-01,Kerala,32,Uzhavoor Srto,KL67,Two Wheeler(Nt),Tata,Vehicle Category,141.0
+2020-11-01,Andhra Pradesh,28,Rayachoti Mvi Office,AP504,Three Wheeler(Nt),Mahindra,Vehicle Category,21.0
+2023-10-01,Karnataka,29,Puttur Rto,KA21,Heavy Goods Vehicle,Bajaj,Vehicle Category,12.0
+2022-08-01,Rajasthan,8,Pratapgarh Dto,RJ35,Light Goods Vehicle,Hero,Vehicle Category,6.0
+2023-10-01,Assam,18,Nagaon,AS2,Two Wheeler(Nt),Hyundai,Vehicle Category,2974.0
+2024-05-01,Gujarat,24,Dahod,GJ20,Three Wheeler(T),Maruti,Vehicle Category,54.0
+2023-09-01,Uttar Pradesh,9,Mainpuri,UP84,Light Goods Vehicle,Honda,Vehicle Category,36.0
+2019-10-01,Haryana,6,Rewari,HR36,Light Motor Vehicle,Tata,Vehicle Category,490.0
+2019-12-01,Karnataka,29,Ramdurga Arto,KA69,Two Wheeler(Nt),Mahindra,Vehicle Category,428.0
+2019-10-01,Tamil Nadu,33,Madurai (South) Rto,TN58,Heavy Goods Vehicle,Bajaj,Vehicle Category,13.0
+2019-04-01,Himachal Pradesh,2,Rla Shahpur,HP90,Light Motor Vehicle,Hero,Vehicle Category,30.0
+2023-09-01,Goa,30,Mapusa Rto,GA3,Medium Goods Vehicle,Hyundai,Vehicle Category,7.0
+2020-11-01,Kerala,32,Thirurangadi Srto,KL65,Medium Motor Vehicle,Maruti,Vehicle Category,4.0
+2023-02-01,Maharashtra,27,Kalyan,MH5,Light Goods Vehicle,Honda,Vehicle Category,144.0
+2020-04-01,Kerala,32,Vadakara Rto,KL18,Light Motor Vehicle,Tata,Vehicle Category,71.0
+2019-01-01,Haryana,6,"Rta, Jind",HR56,Heavy Goods Vehicle,Mahindra,Vehicle Category,26.0
+2020-04-01,Haryana,6,Sdm Kharkhonda,HR79,Medium Motor Vehicle,Bajaj,Vehicle Category,2.0
+2024-02-01,Kerala,32,Nanmanda Srto,KL76,Medium Goods Vehicle,Hero,Vehicle Category,1.0
+2020-10-01,Odisha,21,Rairangpur Arto,OR111,Light Motor Vehicle,Hyundai,Vehicle Category,30.0
+2023-10-01,Tamil Nadu,33,Thiruchendur Rto,TN606,Medium Passenger Vehicle,Maruti,Vehicle Category,1.0
+2022-12-01,Maharashtra,27,Latur,MH24,Heavy Motor Vehicle,Honda,Vehicle Category,1.0
+2024-05-01,Uttar Pradesh,9,Ghazipur,UP61,Two Wheeler(Nt),Tata,Vehicle Category,3721.0
+2020-02-01,Odisha,21,Chandikhole Rto,OR4,Light Motor Vehicle,Mahindra,Vehicle Category,28.0
+2019-12-01,Bihar,10,Motihari,BR5,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2023-09-01,Jharkhand,20,East Singhbhum (Jamshedpur),JH5,Heavy Goods Vehicle,Hero,Vehicle Category,150.0
+2020-07-01,Uttar Pradesh,9,Noida,UP16,Medium Passenger Vehicle,Hyundai,Vehicle Category,1.0
+2019-04-01,Rajasthan,8,Bharatpur Rto,RJ5,Light Goods Vehicle,Maruti,Vehicle Category,37.0
+2019-12-01,Tamil Nadu,33,Srirangam Rto,TN48,Light Passenger Vehicle,Honda,Vehicle Category,13.0
+2021-02-01,Himachal Pradesh,2,Rla Nahan,HP18,Heavy Motor Vehicle,Tata,Vehicle Category,2.0
+2021-10-01,Tamil Nadu,33,Viluppuram Rto,TN32,Medium Motor Vehicle,Mahindra,Vehicle Category,2.0
+2019-01-01,Uttar Pradesh,9,Jpnagar,UP23,Light Goods Vehicle,Bajaj,Vehicle Category,25.0
+2022-07-01,Tamil Nadu,33,Mettur Rto,TN590,Two Wheeler (Invalid Carriage),Hero,Vehicle Category,1.0
+2023-06-01,Rajasthan,8,Alwar Rto,RJ2,Medium Passenger Vehicle,Hyundai,Vehicle Category,13.0
+2023-04-01,Meghalaya,17,Nongstoin,ML6,Light Goods Vehicle,Maruti,Vehicle Category,14.0
+2019-01-01,Maharashtra,27,Thane,MH4,Two Wheeler(Nt),Honda,Vehicle Category,6647.0
+2024-05-01,Andhra Pradesh,28,Sullurpet Uo,AP426,Medium Passenger Vehicle,Tata,Vehicle Category,1.0
+2020-03-01,Tamil Nadu,33,Sathyamangalam Uo,TN579,Two Wheeler(Nt),Mahindra,Vehicle Category,692.0
+2023-02-01,Kerala,32,Nedumangadu Srto,KL21,Light Passenger Vehicle,Bajaj,Vehicle Category,6.0
+2023-09-01,Assam,18,Barpeta,AS15,Two Wheeler(Nt),Hero,Vehicle Category,1232.0
+2019-01-01,Maharashtra,27,Dy Rto Pimpri Chinchwad,MH14,Light Goods Vehicle,Hyundai,Vehicle Category,445.0
+2023-06-01,Maharashtra,27,Dy Rto Ratnagiri,MH8,Light Passenger Vehicle,Maruti,Vehicle Category,14.0
+2019-03-01,Tamil Nadu,33,Perundurai Rto,TN56,Two Wheeler (Invalid Carriage),Honda,Vehicle Category,20.0
+2019-05-01,Andhra Pradesh,28,Parvathipuram Mvi Office,AP135,Three Wheeler(Nt),Tata,Vehicle Category,26.0
+2023-05-01,Himachal Pradesh,2,Rla Bhoranj,HP74,Light Passenger Vehicle,Mahindra,Vehicle Category,1.0
+2023-02-01,West Bengal,19,Mathabhanga Arto,WB85,Medium Motor Vehicle,Bajaj,Vehicle Category,2.0
+2021-02-01,Gujarat,24,Tapi,GJ26,Light Motor Vehicle,Hero,Vehicle Category,273.0
+2021-11-01,Rajasthan,8,Rajsamand Dto,RJ30,Heavy Goods Vehicle,Hyundai,Vehicle Category,5.0
+2020-12-01,Maharashtra,27,Nagpur (Rural),MH40,Two Wheeler (Invalid Carriage),Maruti,Vehicle Category,1.0
+2023-09-01,Karnataka,29,Kalaburagi Rto,KA32,Two Wheeler(Nt),Honda,Vehicle Category,2107.0
+2022-11-01,West Bengal,19,Pvd Kolkata,WB1,Heavy Goods Vehicle,Tata,Vehicle Category,2.0
+2021-12-01,Tamil Nadu,33,Chennai (West) Rto,TN9,Three Wheeler(T),Mahindra,Vehicle Category,33.0
+2020-03-01,Uttar Pradesh,9,Mirzapur Rto,UP63,Heavy Goods Vehicle,Bajaj,Vehicle Category,20.0
+2022-08-01,Delhi,7,South Delhi,DL3,Light Motor Vehicle,Hero,Vehicle Category,2129.0
+2020-08-01,Meghalaya,17,Nongpoh,ML10,Light Passenger Vehicle,Hyundai,Vehicle Category,6.0
+2024-04-01,Bihar,10,Darbhanga,BR7,Medium Passenger Vehicle,Maruti,Vehicle Category,4.0
+2022-07-01,Madhya Pradesh,23,Chattarpur Arto,MP16,Medium Motor Vehicle,Honda,Vehicle Category,2.0
+2023-06-01,Bihar,10,Jamui,BR46,Three Wheeler(T),Tata,Vehicle Category,163.0
+2022-08-01,Andhra Pradesh,28,Vishakapatnam Rta,AP31,Light Motor Vehicle,Mahindra,Vehicle Category,830.0
+2023-12-01,Tamil Nadu,33,Alangulam Uo,TN644,Other Than Mentioned Above,Bajaj,Vehicle Category,1.0
+2020-01-01,West Bengal,19,Howrah Rto,WB11,Light Goods Vehicle,Hero,Vehicle Category,61011.0
+2023-09-01,Himachal Pradesh,2,Rla Chamba,HP48,Two Wheeler(Nt),Hyundai,Vehicle Category,97.0
+2022-10-01,Kerala,32,Thalassery Srto,KL58,Light Passenger Vehicle,Maruti,Vehicle Category,4.0
+2019-01-01,Rajasthan,8,Pokhran Dto,RJ55,Two Wheeler(Nt),Honda,Vehicle Category,2.0
+2024-03-01,Karnataka,29,Hospet Rto,KA35,Medium Passenger Vehicle,Tata,Vehicle Category,2.0
+2020-12-01,Bihar,10,Nawada,BR27,Three Wheeler(T),Mahindra,Vehicle Category,91.0
+2021-04-01,Uttar Pradesh,9,Etah,UP82,Light Motor Vehicle,Bajaj,Vehicle Category,228.0
+2019-06-01,Jammu And Kashmir,1,Srinagar Rto,JK1,Three Wheeler(T),Hero,Vehicle Category,54.0
+2020-02-01,Bihar,10,Kishanganj,BR37,Light Goods Vehicle,Hyundai,Vehicle Category,127.0
+2019-02-01,Manipur,14,Kangpokpi,MN3,Medium Passenger Vehicle,Maruti,Vehicle Category,1.0
+2019-11-01,Puducherry,34,Oulgaret,PY5,Two Wheeler(Nt),Honda,Vehicle Category,810.0
+2023-08-01,Tamil Nadu,33,Tiruvannamalai Rto,TN25,Medium Motor Vehicle,Tata,Vehicle Category,4.0
+2022-12-01,Gujarat,24,Khambhaliya,GJ37,Other Than Mentioned Above,Mahindra,Vehicle Category,5.0
+2022-05-01,Himachal Pradesh,2,Rto Nahan,HP71,Heavy Goods Vehicle,Bajaj,Vehicle Category,15.0
+2022-11-01,West Bengal,19,Haldia Arto,WB32,Medium Motor Vehicle,Hero,Vehicle Category,1.0
+2021-01-01,Haryana,6,Sdm Gharaunda,HR91,Light Motor Vehicle,Hyundai,Vehicle Category,102.0
+2023-10-01,Andhra Pradesh,28,Piduguralla Uo,AP607,Light Motor Vehicle,Maruti,Vehicle Category,63.0
+2022-07-01,Punjab,3,Sdm Dinanagar,PB99,Two Wheeler(Nt),Honda,Vehicle Category,6.0
+2020-03-01,Andhra Pradesh,28,Tirupati Rta,AP103,Three Wheeler(Nt),Tata,Vehicle Category,50.0
+2019-10-01,Rajasthan,8,Beawar Dto,RJ36,Light Motor Vehicle,Mahindra,Vehicle Category,114.0
+2023-03-01,Rajasthan,8,M-S Nandan Fitness Testing Center,RJ204,Two Wheeler(T),Bajaj,Vehicle Category,146.0
+2022-06-01,Tamil Nadu,33,Aruppukottai Uo,TN622,Three Wheeler(T),Hero,Vehicle Category,3.0
+2022-03-01,Haryana,6,Narwana,HR32,Other Than Mentioned Above,Hyundai,Vehicle Category,5.0
+2021-10-01,Tamil Nadu,33,Sivakasi Rto,TN604,Light Goods Vehicle,Maruti,Vehicle Category,18.0
+2020-07-01,Himachal Pradesh,2,Rla Nurpur,HP38,Light Goods Vehicle,Honda,Vehicle Category,10.0
+2019-12-01,Odisha,21,Khordha Arto,OR201,Light Motor Vehicle,Tata,Vehicle Category,23.0
+2021-08-01,Gujarat,24,Banaskantha,GJ8,Medium Goods Vehicle,Mahindra,Vehicle Category,5.0
+2023-10-01,Karnataka,29,Tiptur Arto,KA44,Light Goods Vehicle,Bajaj,Vehicle Category,42.0
+2023-03-01,Jammu And Kashmir,1,Kupwara Arto,JK9,Two Wheeler(Nt),Hero,Vehicle Category,118.0
+2022-06-01,Karnataka,29,"Tarikere, Chikkamagaluru Arto",KA66,Medium Motor Vehicle,Hyundai,Vehicle Category,2.0
+2022-05-01,Uttarakhand,5,Pauri Rto,UK12,Two Wheeler(Nt),Maruti,Vehicle Category,194.0
+2020-04-01,Jammu And Kashmir,1,Kulgam Arto,JK18,Three Wheeler(T),Honda,Vehicle Category,23.0
+2023-02-01,Uttar Pradesh,9,Baghpat,UP17,Three Wheeler(T),Tata,Vehicle Category,52.0
+2022-10-01,Punjab,3,Rto Jalandhar,PB8,Medium Motor Vehicle,Mahindra,Vehicle Category,2.0
+2023-03-01,Uttar Pradesh,9,Balrampur,UP47,Light Goods Vehicle,Bajaj,Vehicle Category,21.0
+2019-06-01,Uttarakhand,5,Haldwani Rto,UK4,Four Wheeler (Invalid Carriage),Hero,Vehicle Category,2.0
+2023-08-01,Tamil Nadu,33,Bhavani Uo,TN578,Two Wheeler (Invalid Carriage),Hyundai,Vehicle Category,2.0
+2023-01-01,Kerala,32,Kattakada Srto,KL74,Light Passenger Vehicle,Maruti,Vehicle Category,2.0
+2019-07-01,Tamil Nadu,33,Tiruveranbur Uo,TN583,Two Wheeler(Nt),Honda,Vehicle Category,411.0
+2022-01-01,Punjab,3,Rto Faridkot,PB4,Heavy Goods Vehicle,Tata,Vehicle Category,28.0
+2022-03-01,Haryana,6,Sdm Uchana,HR90,Heavy Motor Vehicle,Mahindra,Vehicle Category,1.0
+2024-03-01,Tamil Nadu,33,Valparai Uo,TN633,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2023-01-01,Uttar Pradesh,9,Jhansirto,UP93,Light Passenger Vehicle,Hero,Vehicle Category,6.0
+2021-11-01,Andhra Pradesh,28,Rta Eluru,AP37,Medium Motor Vehicle,Hyundai,Vehicle Category,1.0
+2023-11-01,Tripura,16,Sepahijala Dto,TR7,Two Wheeler(Nt),Maruti,Vehicle Category,647.0
+2019-12-01,Uttar Pradesh,9,Hapur,UP37,Heavy Goods Vehicle,Honda,Vehicle Category,7.0
+2020-04-01,Madhya Pradesh,23,Singroli Dto,MP66,Two Wheeler(Nt),Tata,Vehicle Category,2408.0
+2021-09-01,Tripura,16,Sepahijala Dto,TR7,Light Passenger Vehicle,Mahindra,Vehicle Category,1.0
+2022-03-01,Tamil Nadu,33,Paramathi Vellure Uo,TN517,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2019-02-01,Kerala,32,Thirur Srto,KL55,Light Passenger Vehicle,Hero,Vehicle Category,16.0
+2019-01-01,Karnataka,29,Bijapur Rto,KA28,Light Motor Vehicle,Hyundai,Vehicle Category,525.0
+2022-07-01,Kerala,32,Cherthala Srto,KL32,Heavy Goods Vehicle,Maruti,Vehicle Category,8.0
+2024-02-01,Karnataka,29,Chikkodi Rto,KA23,Two Wheeler(Nt),Honda,Vehicle Category,1087.0
+2023-11-01,Jammu And Kashmir,1,Kathua Rto,JK8,Heavy Passenger Vehicle,Tata,Vehicle Category,1.0
+2022-03-01,Kerala,32,Kottarakkara Srto,KL24,Two Wheeler(Nt),Mahindra,Vehicle Category,511.0
+2022-10-01,Karnataka,29,Raichur Rto,KA36,Three Wheeler(T),Bajaj,Vehicle Category,17.0
+2023-10-01,Bihar,10,Chapara,BR4,Medium Motor Vehicle,Hero,Vehicle Category,3.0
+2023-08-01,Haryana,6,"Rta, Nuh",HR74,Light Passenger Vehicle,Hyundai,Vehicle Category,6.0
+2021-07-01,Uttar Pradesh,9,Varanasi Rto,UP65,Three Wheeler(T),Maruti,Vehicle Category,230.0
+2021-12-01,Jharkhand,20,Bokaro,JH9,Light Motor Vehicle,Honda,Vehicle Category,343.0
+2021-04-01,Chandigarh,4,Chandigarh Ut (Rla And Sta),CH1,Two Wheeler (Invalid Carriage),Tata,Vehicle Category,1.0
+2021-04-01,Tamil Nadu,33,Manmangalam Uo,TN637,Two Wheeler(Nt),Mahindra,Vehicle Category,423.0
+2021-04-01,Jharkhand,20,Godda,JH17,Three Wheeler(T),Bajaj,Vehicle Category,20.0
+2020-10-01,Andhra Pradesh,28,Jaggayyapet Uo,AP616,Two Wheeler(Nt),Hero,Vehicle Category,349.0
+2021-06-01,Uttar Pradesh,9,Saharanpur Rto,UP11,Three Wheeler(T),Hyundai,Vehicle Category,20.0
+2023-06-01,Tamil Nadu,33,Alangudi Uo,TN641,Light Passenger Vehicle,Maruti,Vehicle Category,1.0
+2023-07-01,Madhya Pradesh,23,Shivpuri Dto,MP33,Light Motor Vehicle,Honda,Vehicle Category,613.0
+2024-01-01,Kerala,32,Mattancherry Srto,KL43,Two Wheeler(Nt),Tata,Vehicle Category,526.0
+2019-03-01,Kerala,32,Aluva Srto,KL41,Two Wheeler(Nt),Mahindra,Vehicle Category,816.0
+2021-08-01,Rajasthan,8,Kota Rto,RJ20,Heavy Goods Vehicle,Bajaj,Vehicle Category,7.0
+2019-03-01,Gujarat,24,Surendranagar,GJ13,Three Wheeler(T),Hero,Vehicle Category,75.0
+2022-11-01,Maharashtra,27,Solapur,MH13,Four Wheeler (Invalid Carriage),Hyundai,Vehicle Category,3.0
+2023-07-01,Kerala,32,Chalakkudy Srto,KL64,Other Than Mentioned Above,Maruti,Vehicle Category,1.0
+2020-12-01,Rajasthan,8,Sirohi Dto,RJ24,Medium Goods Vehicle,Honda,Vehicle Category,1.0
+2020-10-01,Jharkhand,20,West Singhbhum (Chaibasa),JH6,Two Wheeler(Nt),Tata,Vehicle Category,810.0
+2022-01-01,Haryana,6,Charkhi Dadri,HR19,Medium Motor Vehicle,Mahindra,Vehicle Category,1.0
+2022-05-01,Assam,18,Karbi Anglong,AS9,Three Wheeler(T),Bajaj,Vehicle Category,34.0
+2023-05-01,Karnataka,29,Davanagere Rto,KA17,Medium Passenger Vehicle,Hero,Vehicle Category,9.0
+2020-03-01,West Bengal,19,Birbhum Rto,WB53,Light Motor Vehicle,Hyundai,Vehicle Category,241.0
+2021-01-01,Jharkhand,20,Hazaribag,JH2,Three Wheeler(T),Maruti,Vehicle Category,28.0
+2020-02-01,Jammu And Kashmir,1,Kupwara Arto,JK9,Heavy Goods Vehicle,Honda,Vehicle Category,9.0
+2020-03-01,Tamil Nadu,33,Rto Chennai (North West),TN2,Light Motor Vehicle,Tata,Vehicle Category,274.0
+2019-10-01,Bihar,10,Buxur,BR44,Light Motor Vehicle,Mahindra,Vehicle Category,40.0
+2020-09-01,Tamil Nadu,33,Batlagundu Uo,TN596,Light Goods Vehicle,Bajaj,Vehicle Category,24.0
+2022-08-01,Rajasthan,8,Jaisalmer Dto,RJ15,Two Wheeler(Nt),Hero,Vehicle Category,365.0
+2019-11-01,Jammu And Kashmir,1,Kathua Rto,JK8,Heavy Goods Vehicle,Hyundai,Vehicle Category,9.0
+2023-06-01,Assam,18,Nagaon,AS2,Other Than Mentioned Above,Maruti,Vehicle Category,4.0
+2023-03-01,Bihar,10,Buxur,BR44,Three Wheeler(T),Honda,Vehicle Category,84.0
+2023-01-01,Rajasthan,8,Jaipur (Second) Rto,RJ59,Two Wheeler(Nt),Tata,Vehicle Category,534.0
+2019-04-01,Uttar Pradesh,9,Saharanpur Rto,UP11,Two Wheeler(Nt),Mahindra,Vehicle Category,3954.0
+2022-09-01,Karnataka,29,Chikamanglur Rto,KA18,Heavy Goods Vehicle,Bajaj,Vehicle Category,16.0
+2023-01-01,Gujarat,24,Dahod,GJ20,Light Motor Vehicle,Hero,Vehicle Category,384.0
+2019-12-01,Tamil Nadu,33,Aranthangi Uo,TN592,Other Than Mentioned Above,Hyundai,Vehicle Category,5.0
+2019-10-01,Rajasthan,8,Ajmer Rto,RJ1,Light Motor Vehicle,Maruti,Vehicle Category,491.0
+2021-03-01,Tamil Nadu,33,Thiruthuraipoondi Uo,TN630,Light Motor Vehicle,Honda,Vehicle Category,48.0
+2019-11-01,Maharashtra,27,Dhule,MH18,Other Than Mentioned Above,Tata,Vehicle Category,15.0
+2021-10-01,Puducherry,34,Puducherry,PY1,Heavy Goods Vehicle,Mahindra,Vehicle Category,3.0
+2020-11-01,West Bengal,19,Durgapore Arto,WB39,Light Motor Vehicle,Bajaj,Vehicle Category,346.0
+2021-07-01,Nagaland,13,Phek Dto,NL8,Other Than Mentioned Above,Hero,Vehicle Category,2.0
+2023-04-01,Uttar Pradesh,9,Kaushambi,UP73,Medium Passenger Vehicle,Hyundai,Vehicle Category,6.0
+2020-11-01,Uttar Pradesh,9,Sant Kabir Nagar,UP58,Other Than Mentioned Above,Maruti,Vehicle Category,1.0
+2019-06-01,Uttarakhand,5,Roorkee Arto,UK17,Heavy Goods Vehicle,Honda,Vehicle Category,10.0
+2019-03-01,Punjab,3,Gurdaspur Rta,PB6,Light Motor Vehicle,Tata,Vehicle Category,355.0
+2019-11-01,Karnataka,29,"Stu And Autorikshaw, Shanthinagar Rto",KA57,Heavy Passenger Vehicle,Mahindra,Vehicle Category,5.0
+2023-06-01,Kerala,32,Tripunithura Srto,KL39,Medium Goods Vehicle,Bajaj,Vehicle Category,3.0
+2020-02-01,Tamil Nadu,33,Karaikudi Uo,TN602,Light Motor Vehicle,Hero,Vehicle Category,85.0
+2021-01-01,Gujarat,24,Gandhinagar,GJ18,Medium Motor Vehicle,Hyundai,Vehicle Category,8.0
+2022-07-01,Maharashtra,27,Pune,MH12,Heavy Passenger Vehicle,Maruti,Vehicle Category,27.0
+2024-03-01,Assam,18,Dhubri,AS17,Three Wheeler(T),Honda,Vehicle Category,174.0
+2023-08-01,Kerala,32,Mananthavady Srto,KL72,Light Passenger Vehicle,Tata,Vehicle Category,5.0
+2023-05-01,Uttar Pradesh,9,Bhadohi(Sant Ravidas Nagar),UP66,Two Wheeler(Nt),Mahindra,Vehicle Category,2896.0
+2019-02-01,West Bengal,19,Howrah Rto,WB11,Light Motor Vehicle,Bajaj,Vehicle Category,252.0
+2024-05-01,Karnataka,29,Shimoga Rto,KA14,Light Passenger Vehicle,Hero,Vehicle Category,32.0
+2021-05-01,Andhra Pradesh,28,Narasaraopet Rta,AP107,Three Wheeler(Nt),Hyundai,Vehicle Category,108.0
+2021-08-01,Himachal Pradesh,2,Rla Dheera,HP96,Light Motor Vehicle,Maruti,Vehicle Category,23.0
+2021-03-01,Madhya Pradesh,23,Shahdol Rto,MP18,Light Passenger Vehicle,Honda,Vehicle Category,12.0
+2023-11-01,Chhattisgarh,22,Mungeli Dto,CG28,Three Wheeler(T),Tata,Vehicle Category,5.0
+2020-11-01,Tamil Nadu,33,Poonamallee Rto,TN511,Other Than Mentioned Above,Mahindra,Vehicle Category,2.0
+2022-05-01,Uttar Pradesh,9,Basti Rto,UP51,Two Wheeler(Nt),Bajaj,Vehicle Category,4646.0
+2021-12-01,Madhya Pradesh,23,Hosangabad Dto,MP5,Two Wheeler (Invalid Carriage),Hero,Vehicle Category,2.0
+2023-06-01,Andhra Pradesh,28,Bapatla Mvi Office,AP207,Light Passenger Vehicle,Hyundai,Vehicle Category,5.0
+2022-04-01,Gujarat,24,Gandhinagar,GJ18,Light Motor Vehicle,Maruti,Vehicle Category,1276.0
+2022-12-01,Gujarat,24,Ahmedabad,GJ1,Light Motor Vehicle,Honda,Vehicle Category,3785.0
+2022-08-01,The Dadra And Nagar Haveli And Daman And Diu,38,Daman,DD3,Other Than Mentioned Above,Tata,Vehicle Category,1.0
+2022-01-01,Chhattisgarh,22,Dantewada Dto,CG18,Light Goods Vehicle,Mahindra,Vehicle Category,16.0
+2019-04-01,Maharashtra,27,Panvel,MH46,Four Wheeler (Invalid Carriage),Bajaj,Vehicle Category,2.0
+2022-04-01,Uttar Pradesh,9,Ghazipur,UP61,Heavy Motor Vehicle,Hero,Vehicle Category,2.0
+2021-03-01,Kerala,32,Pattambi Srto,KL52,Two Wheeler(Nt),Hyundai,Vehicle Category,813.0
+2021-01-01,Tamil Nadu,33,Tambaram Rto,TN513,Two Wheeler (Invalid Carriage),Maruti,Vehicle Category,27.0
+2022-07-01,Rajasthan,8,Rajsamand Dto,RJ30,Other Than Mentioned Above,Honda,Vehicle Category,3.0
+2019-07-01,Gujarat,24,Chhotaudaipur,GJ34,Other Than Mentioned Above,Tata,Vehicle Category,4.0
+2022-03-01,Gujarat,24,Chhotaudaipur,GJ34,Heavy Goods Vehicle,Mahindra,Vehicle Category,6.0
+2023-05-01,Punjab,3,Rto Jalandhar,PB8,Light Motor Vehicle,Bajaj,Vehicle Category,1303.0
+2019-04-01,Uttarakhand,5,Haldwani Rto,UK4,Medium Goods Vehicle,Hero,Vehicle Category,2.0
+2023-02-01,Rajasthan,8,Barmer Dto,RJ4,Heavy Goods Vehicle,Hyundai,Vehicle Category,78.0
+2019-12-01,Kerala,32,Koduvally Srto,KL57,Heavy Passenger Vehicle,Maruti,Vehicle Category,1.0
+2020-06-01,Puducherry,34,Villianur,PY51,Light Goods Vehicle,Honda,Vehicle Category,1.0
+2020-02-01,Tamil Nadu,33,Pudukottai Rto,TN55,Medium Motor Vehicle,Tata,Vehicle Category,2.0
+2022-05-01,Assam,18,Dhubri,AS17,Light Motor Vehicle,Mahindra,Vehicle Category,59.0
+2023-07-01,Tamil Nadu,33,Sholinganallur Rto,TN512,Light Passenger Vehicle,Bajaj,Vehicle Category,33.0
+2019-03-01,Himachal Pradesh,2,Rla Shimla Hp-03-Hp-07(Urban),HP3,Light Goods Vehicle,Hero,Vehicle Category,1.0
+2020-06-01,Rajasthan,8,Barmer Dto,RJ4,Light Motor Vehicle,Hyundai,Vehicle Category,462.0
+2024-01-01,Madhya Pradesh,23,Dewas Dto,MP41,Three Wheeler(T),Maruti,Vehicle Category,47.0
+2019-09-01,Haryana,6,Meham,HR15,Two Wheeler(Nt),Honda,Vehicle Category,235.0
+2020-11-01,Haryana,6,"Rta, Faridabad",HR38,Medium Goods Vehicle,Tata,Vehicle Category,29.0
+2020-03-01,Assam,18,Dima Hasao,AS8,Light Passenger Vehicle,Mahindra,Vehicle Category,1.0
+2021-07-01,Karnataka,29,Sirsi Rto,KA31,Light Motor Vehicle,Bajaj,Vehicle Category,162.0
+2020-09-01,Himachal Pradesh,2,Rla Rohru,HP10,Other Than Mentioned Above,Hero,Vehicle Category,1.0
+2019-07-01,West Bengal,19,Mathabhanga Arto,WB85,Medium Goods Vehicle,Hyundai,Vehicle Category,2.0
+2023-09-01,West Bengal,19,Birbhum Rto,WB53,Light Passenger Vehicle,Maruti,Vehicle Category,2.0
+2020-08-01,Andhra Pradesh,28,Narsipatnam Mvi Office,AP331,Heavy Goods Vehicle,Honda,Vehicle Category,1.0
+2021-09-01,Rajasthan,8,Didwana Dto,RJ37,Two Wheeler(Nt),Tata,Vehicle Category,921.0
+2022-07-01,Jammu And Kashmir,1,Pulwama Arto,JK13,Light Passenger Vehicle,Mahindra,Vehicle Category,2.0
+2021-01-01,Rajasthan,8,"Jagatpura, Jaipur Arto",RJ141,Medium Passenger Vehicle,Bajaj,Vehicle Category,50.0
+2019-01-01,Tamil Nadu,33,Tiruppur (North) Rto,TN39,Three Wheeler(T),Hero,Vehicle Category,14.0
+2021-06-01,Rajasthan,8,Jalore Dto,RJ16,Medium Goods Vehicle,Hyundai,Vehicle Category,1.0
+2023-01-01,Madhya Pradesh,23,Burhanpur Dto,MP68,Light Goods Vehicle,Maruti,Vehicle Category,10.0
+2021-01-01,Himachal Pradesh,2,Rla Kaza,HP41,Two Wheeler(Nt),Honda,Vehicle Category,1.0
+2023-12-01,Jharkhand,20,West Singhbhum (Chaibasa),JH6,Heavy Goods Vehicle,Tata,Vehicle Category,7.0
+2019-05-01,Tamil Nadu,33,Mayiladuthurai Rto,TN589,Medium Passenger Vehicle,Mahindra,Vehicle Category,2.0
+2022-11-01,Maharashtra,27,Pune,MH12,Light Passenger Vehicle,Bajaj,Vehicle Category,349.0
+2020-12-01,Tamil Nadu,33,Illuppur Uo,TN629,Light Motor Vehicle,Hero,Vehicle Category,57.0
+2023-06-01,Uttarakhand,5,Ramnagar Arto,UK19,Three Wheeler(T),Hyundai,Vehicle Category,12.0
+2019-05-01,Uttar Pradesh,9,Hapur,UP37,Medium Goods Vehicle,Maruti,Vehicle Category,3.0
+2021-08-01,Chhattisgarh,22,Baloda Bazar Dto,CG22,Light Passenger Vehicle,Honda,Vehicle Category,3.0
+2021-12-01,Tamil Nadu,33,Chennai (Central) Rto,TN1,Light Goods Vehicle,Tata,Vehicle Category,41.0
+2023-03-01,West Bengal,19,Diamond Harbour Arto,WB97,Two Wheeler(Nt),Mahindra,Vehicle Category,1257.0
+2019-08-01,Uttar Pradesh,9,Meerut Rto,UP15,Medium Passenger Vehicle,Bajaj,Vehicle Category,1.0
+2024-03-01,Jharkhand,20,Lohardaga,JH8,Three Wheeler(T),Hero,Vehicle Category,20.0
+2023-09-01,Tamil Nadu,33,Harur Uo,TN527,Heavy Goods Vehicle,Hyundai,Vehicle Category,7.0
+2021-09-01,West Bengal,19,Barasat Rto,WB25,Two Wheeler(Nt),Maruti,Vehicle Category,3016.0
+2019-05-01,Tamil Nadu,33,Tiruppur (North) Rto,TN39,Three Wheeler(T),Honda,Vehicle Category,13.0
+2020-08-01,Karnataka,29,Dharwad West Rto,KA25,Three Wheeler(T),Tata,Vehicle Category,3.0
+2023-08-01,Assam,18,Kamrup(Rural),AS25,Medium Goods Vehicle,Mahindra,Vehicle Category,4.0
+2024-03-01,Maharashtra,27,Mumbai (West),MH2,Heavy Goods Vehicle,Bajaj,Vehicle Category,13.0
+2024-05-01,Kerala,32,Thaliparamba Srto,KL59,Medium Passenger Vehicle,Hero,Vehicle Category,4.0
+2023-12-01,Tamil Nadu,33,Sirkali Uo,TN623,Medium Goods Vehicle,Hyundai,Vehicle Category,1.0
+2021-06-01,Gujarat,24,Mehsana,GJ2,Light Motor Vehicle,Maruti,Vehicle Category,851.0
+2020-10-01,Uttarakhand,5,Udham Singh Nagar Arto,UK6,Light Goods Vehicle,Honda,Vehicle Category,22.0
+2023-06-01,Manipur,14,Imphal East,MN6,Light Motor Vehicle,Tata,Vehicle Category,61.0
+2020-03-01,Andhra Pradesh,28,Nellore Rta,AP26,Medium Goods Vehicle,Mahindra,Vehicle Category,5.0
+2021-02-01,Assam,18,Goalpara,AS18,Light Motor Vehicle,Bajaj,Vehicle Category,61.0
+2019-10-01,Chhattisgarh,22,Bilaspur Rto,CG10,Light Goods Vehicle,Hero,Vehicle Category,105.0
+2019-01-01,Kerala,32,Parassala Srto,KL19,Light Passenger Vehicle,Hyundai,Vehicle Category,3.0
+2021-02-01,Kerala,32,Ramanattukara (Feroke) Srto,KL85,Two Wheeler(Nt),Maruti,Vehicle Category,630.0
+2019-09-01,Tamil Nadu,33,Pollachi Rto,TN41,Light Passenger Vehicle,Honda,Vehicle Category,7.0
+2021-04-01,Maharashtra,27,Wardha,MH32,Light Motor Vehicle,Tata,Vehicle Category,102.0
+2019-11-01,Odisha,21,Rairangpur Arto,OR111,Medium Passenger Vehicle,Mahindra,Vehicle Category,1.0
+2022-02-01,Odisha,21,Bargarh Rto,OR17,Other Than Mentioned Above,Bajaj,Vehicle Category,2.0
+2023-07-01,Tamil Nadu,33,Tenkasi Rto,TN76,Light Motor Vehicle,Hero,Vehicle Category,118.0
+2019-09-01,Uttar Pradesh,9,Deoria,UP52,Light Passenger Vehicle,Hyundai,Vehicle Category,9.0
+2024-05-01,Karnataka,29,Haveri Rto,KA27,Two Wheeler (Invalid Carriage),Maruti,Vehicle Category,3.0
+2022-11-01,Himachal Pradesh,2,Rla Nurpur,HP38,Light Motor Vehicle,Honda,Vehicle Category,64.0
+2024-01-01,Andhra Pradesh,28,Amalapuram Rta,AP205,Light Motor Vehicle,Tata,Vehicle Category,89.0
+2024-02-01,Andhra Pradesh,28,Vuyyuru Uo,AP516,Medium Goods Vehicle,Mahindra,Vehicle Category,1.0
+2021-06-01,Tamil Nadu,33,Madurai (South) Rto,TN58,Light Passenger Vehicle,Bajaj,Vehicle Category,3.0
+2021-05-01,Punjab,3,Sdm Bhawnigarh,PB84,Two Wheeler(Nt),Hero,Vehicle Category,20.0
+2019-02-01,Kerala,32,Ottappalam Srto,KL51,Medium Motor Vehicle,Hyundai,Vehicle Category,1.0
+2024-03-01,Bihar,10,Purnea,BR11,Heavy Motor Vehicle,Maruti,Vehicle Category,1.0
+2021-02-01,Delhi,7,Rajouri Garden,DL10,Two Wheeler(Nt),Honda,Vehicle Category,1234.0
+2023-09-01,Madhya Pradesh,23,Umaria Dto,MP54,Two Wheeler(Nt),Tata,Vehicle Category,409.0
+2023-09-01,Rajasthan,8,M-S Nandan Fitness Testing Center,RJ204,Two Wheeler(T),Mahindra,Vehicle Category,111.0
+2019-10-01,Tamil Nadu,33,Arani Rto,TN516,Other Than Mentioned Above,Bajaj,Vehicle Category,2.0
+2021-11-01,Tamil Nadu,33,Lalkudi Uo,TN631,Three Wheeler(T),Hero,Vehicle Category,1.0
+2024-05-01,Karnataka,29,Shimoga Rto,KA14,Heavy Passenger Vehicle,Hyundai,Vehicle Category,16.0
+2020-08-01,Punjab,3,Sdm Bhikhiwind,PB88,Heavy Passenger Vehicle,Maruti,Vehicle Category,63.0
+2022-02-01,Odisha,21,Jajpur Rto,OR34,Light Motor Vehicle,Honda,Vehicle Category,23.0
+2024-04-01,Uttar Pradesh,9,Ayodhya Rto,UP42,Light Motor Vehicle,Tata,Vehicle Category,500.0
+2023-04-01,Uttar Pradesh,9,Gonda,UP43,Other Than Mentioned Above,Mahindra,Vehicle Category,1.0
+2019-05-01,Uttar Pradesh,9,Mahoba,UP95,Light Passenger Vehicle,Bajaj,Vehicle Category,9.0
+2019-05-01,Uttar Pradesh,9,Mirzapur Rto,UP63,Heavy Passenger Vehicle,Hero,Vehicle Category,1.0
+2023-10-01,Gujarat,24,Bardoli,GJ19,Light Goods Vehicle,Hyundai,Vehicle Category,272.0
+2023-02-01,Odisha,21,Bhubaneswar-Ii Rto,OR33,Two Wheeler(T),Maruti,Vehicle Category,2.0
+2021-08-01,Punjab,3,Sdm Ajnala,PB14,Two Wheeler(Nt),Honda,Vehicle Category,27.0
+2023-08-01,Assam,18,Goalpara,AS18,Light Motor Vehicle,Tata,Vehicle Category,65.0
+2024-05-01,Gujarat,24,"Ahmedabad (Rural), Bawla Arto",GJ38,Heavy Passenger Vehicle,Mahindra,Vehicle Category,12.0
+2024-04-01,Andhra Pradesh,28,Amalapuram Rta,AP205,Heavy Passenger Vehicle,Bajaj,Vehicle Category,6.0
+2022-10-01,Uttar Pradesh,9,Agra Rto,UP80,Light Goods Vehicle,Hero,Vehicle Category,139.0
+2023-06-01,Gujarat,24,Rajkot,GJ3,Two Wheeler(Nt),Hyundai,Vehicle Category,5303.0
+2024-01-01,Punjab,3,Sdm Tapa,PB73,Two Wheeler(Nt),Maruti,Vehicle Category,58.0
+2021-11-01,Rajasthan,8,Bhinmal Dto,RJ46,Heavy Goods Vehicle,Honda,Vehicle Category,18.0
+2020-03-01,Rajasthan,8,Baran Dto,RJ28,Light Motor Vehicle,Tata,Vehicle Category,259.0
+2022-01-01,Madhya Pradesh,23,Vidisha Dto,MP40,Light Passenger Vehicle,Mahindra,Vehicle Category,4.0
+2022-10-01,The Dadra And Nagar Haveli And Daman And Diu,38,Silvassa,DD1,Light Motor Vehicle,Bajaj,Vehicle Category,277.0
+2022-06-01,Maharashtra,27,Pune,MH12,Four Wheeler (Invalid Carriage),Hero,Vehicle Category,4.0
+2023-12-01,Delhi,7,Mall Road,DL1,Four Wheeler (Invalid Carriage),Hyundai,Vehicle Category,2.0
+2024-03-01,Karnataka,29,Kalaburagi Rto,KA32,Two Wheeler(Nt),Maruti,Vehicle Category,2418.0
+2020-08-01,Tamil Nadu,33,Tambaram Rto,TN513,Three Wheeler(T),Honda,Vehicle Category,15.0
+2023-04-01,Karnataka,29,Bengaluru South Rto,KA5,Two Wheeler(Nt),Tata,Vehicle Category,6083.0
+2020-03-01,Assam,18,Darrang,AS13,Two Wheeler(Nt),Mahindra,Vehicle Category,1339.0
+2022-12-01,Meghalaya,17,Khliehriat,ML11,Light Motor Vehicle,Bajaj,Vehicle Category,42.0
+2021-01-01,The Dadra And Nagar Haveli And Daman And Diu,38,Silvassa,DD1,Light Motor Vehicle,Hero,Vehicle Category,235.0
+2019-05-01,Punjab,3,Dera Bassi Sdm,PB70,Two Wheeler(Nt),Hyundai,Vehicle Category,645.0
+2021-04-01,Kerala,32,Thirurangadi Srto,KL65,Light Goods Vehicle,Maruti,Vehicle Category,18.0
+2019-12-01,Odisha,21,Nawarangpur Rto,OR24,Light Goods Vehicle,Honda,Vehicle Category,109.0
+2022-01-01,Kerala,32,Guruvayur Srto,KL46,Light Goods Vehicle,Tata,Vehicle Category,32.0
+2024-02-01,Haryana,6,"Rta, Hisar",HR39,Light Goods Vehicle,Mahindra,Vehicle Category,57.0
+2020-07-01,Tamil Nadu,33,Dharapuram Rto,TN594,Two Wheeler (Invalid Carriage),Bajaj,Vehicle Category,2.0
+2023-05-01,Punjab,3,Sdm Khadur Sahib,PB63,Two Wheeler(Nt),Hero,Vehicle Category,26.0
+2020-01-01,Assam,18,Goalpara,AS18,Medium Goods Vehicle,Hyundai,Vehicle Category,3.0
+2021-05-01,Rajasthan,8,M-S Nandan Fitness Testing Center,RJ204,Light Goods Vehicle,Maruti,Vehicle Category,201.0
+2022-07-01,Haryana,6,"Rta, Gurgaon",HR55,Light Passenger Vehicle,Honda,Vehicle Category,646.0
+2019-11-01,Chhattisgarh,22,Raipur Rto,CG4,Medium Passenger Vehicle,Tata,Vehicle Category,2.0
+2021-10-01,Assam,18,Tinsukia,AS23,Light Passenger Vehicle,Mahindra,Vehicle Category,10.0
+2019-07-01,Haryana,6,"Rta, Sonepat",HR69,Medium Goods Vehicle,Bajaj,Vehicle Category,15.0
+2020-03-01,Tamil Nadu,33,Dindigul Rto,TN57,Heavy Goods Vehicle,Hero,Vehicle Category,20.0
+2020-06-01,Odisha,21,Puri Rto,OR13,Two Wheeler(T),Hyundai,Vehicle Category,1.0
+2020-09-01,Uttar Pradesh,9,Mau,UP54,Light Goods Vehicle,Maruti,Vehicle Category,20.0
+2023-01-01,Andhra Pradesh,28,Tenali Uo,AP707,Four Wheeler (Invalid Carriage),Honda,Vehicle Category,1.0
+2022-11-01,Gujarat,24,Lunavada,GJ35,Heavy Goods Vehicle,Tata,Vehicle Category,4.0
+2020-12-01,Tamil Nadu,33,Pattukottai Unit Office,TN587,Two Wheeler(Nt),Mahindra,Vehicle Category,474.0
+2019-05-01,Tamil Nadu,33,Kulithali Uo,TN585,Two Wheeler(Nt),Bajaj,Vehicle Category,584.0
+2022-05-01,Uttar Pradesh,9,Kanpur Dehat,UP77,Heavy Goods Vehicle,Hero,Vehicle Category,12.0
+2020-03-01,Odisha,21,Nawarangpur Rto,OR24,Two Wheeler(Nt),Hyundai,Vehicle Category,1933.0
+2022-05-01,Kerala,32,Thrissur Rto,KL8,Medium Goods Vehicle,Maruti,Vehicle Category,9.0
+2024-01-01,West Bengal,19,Siliguri Arto,WB73,Two Wheeler(Nt),Honda,Vehicle Category,2429.0
+2024-05-01,Uttar Pradesh,9,Farrukhabad,UP76,Light Passenger Vehicle,Tata,Vehicle Category,33.0
+2019-06-01,Assam,18,Cachar,AS11,Light Motor Vehicle,Mahindra,Vehicle Category,240.0
+2023-04-01,Uttarakhand,5,Dehradun Rto,UK7,Light Passenger Vehicle,Bajaj,Vehicle Category,379.0
+2021-04-01,Uttarakhand,5,Rishikesh Arto,UK14,Heavy Goods Vehicle,Hero,Vehicle Category,19.0
+2019-07-01,Chhattisgarh,22,Janjgir Champa Dto,CG11,Two Wheeler(Nt),Hyundai,Vehicle Category,4367.0
+2024-01-01,Rajasthan,8,Balotra Dto,RJ39,Heavy Goods Vehicle,Maruti,Vehicle Category,22.0
+2019-06-01,Karnataka,29,Puttur Rto,KA21,Heavy Goods Vehicle,Honda,Vehicle Category,6.0
+2020-10-01,Tamil Nadu,33,Namakkal (North) Rto,TN28,Two Wheeler(Nt),Tata,Vehicle Category,768.0
+2020-03-01,Kerala,32,Mannarghat Srto,KL50,Light Motor Vehicle,Mahindra,Vehicle Category,104.0
+2020-11-01,Karnataka,29,Hassan Rto,KA13,Four Wheeler (Invalid Carriage),Bajaj,Vehicle Category,2.0
+2021-08-01,Rajasthan,8,Chittorgarh Rto,RJ9,Four Wheeler (Invalid Carriage),Hero,Vehicle Category,1.0
+2020-08-01,Goa,30,Vasco Rto,GA6,Two Wheeler(Nt),Hyundai,Vehicle Category,210.0
+2021-10-01,Assam,18,Kamrup(Rural),AS25,Two Wheeler(Nt),Maruti,Vehicle Category,1711.0
+2021-09-01,Mizoram,15,Kolasib,MZ5,Light Passenger Vehicle,Honda,Vehicle Category,2.0
+2023-06-01,Madhya Pradesh,23,Indore Rto,MP9,Two Wheeler(Nt),Tata,Vehicle Category,8495.0
+2023-08-01,Jharkhand,20,Saraikela-Kharsawan,JH22,Medium Motor Vehicle,Mahindra,Vehicle Category,1.0
+2020-11-01,Tamil Nadu,33,Alangulam Uo,TN644,Light Goods Vehicle,Bajaj,Vehicle Category,15.0
+2022-02-01,Andhra Pradesh,28,Cuddapah Rta,AP4,Light Motor Vehicle,Hero,Vehicle Category,240.0
+2022-11-01,Jharkhand,20,West Singhbhum (Chaibasa),JH6,Light Motor Vehicle,Hyundai,Vehicle Category,6.0
+2021-04-01,Andhra Pradesh,28,Punganur Uo,AP113,Two Wheeler(Nt),Maruti,Vehicle Category,27.0
+2021-03-01,Gujarat,24,Chhotaudaipur,GJ34,Other Than Mentioned Above,Honda,Vehicle Category,20.0
+2024-05-01,Tamil Nadu,33,Virudhunagar Rto,TN67,Heavy Passenger Vehicle,Tata,Vehicle Category,8.0
+2021-07-01,Jharkhand,20,East Singhbhum (Jamshedpur),JH5,Medium Goods Vehicle,Mahindra,Vehicle Category,15.0
+2023-07-01,Kerala,32,Alathur Srto,KL49,Light Motor Vehicle,Bajaj,Vehicle Category,114.0
+2023-04-01,Assam,18,Sonitpur,AS12,Two Wheeler(Nt),Hero,Vehicle Category,1503.0
+2022-03-01,Chhattisgarh,22,Raipur Rto,CG4,Light Motor Vehicle,Hyundai,Vehicle Category,1338.0
+2023-07-01,Odisha,21,Puri Rto,OR13,Light Goods Vehicle,Maruti,Vehicle Category,26.0
+2019-07-01,Himachal Pradesh,2,Rto Dharamshala,HP68,Heavy Passenger Vehicle,Honda,Vehicle Category,1.0
+2021-11-01,Jammu And Kashmir,1,Anantnag Arto,JK3,Medium Goods Vehicle,Tata,Vehicle Category,4.0
+2023-03-01,West Bengal,19,Murshidabad Rto,WB57,Light Goods Vehicle,Mahindra,Vehicle Category,44.0
+2022-02-01,The Dadra And Nagar Haveli And Daman And Diu,38,Daman,DD3,Three Wheeler(T),Bajaj,Vehicle Category,1.0
+2020-02-01,Tamil Nadu,33,Nagercoil Rto,TN74,Light Motor Vehicle,Hero,Vehicle Category,147.0
+2023-03-01,Kerala,32,Palakkad Rto,KL9,Light Passenger Vehicle,Hyundai,Vehicle Category,2.0
+2020-11-01,West Bengal,19,Uttar Dinajpur Rto,WB59,Light Goods Vehicle,Maruti,Vehicle Category,58.0
+2022-04-01,Odisha,21,Arto Barbil,OR901,Medium Passenger Vehicle,Honda,Vehicle Category,4.0
+2019-04-01,Maharashtra,27,Ahemednagar,MH16,Two Wheeler(Nt),Tata,Vehicle Category,2401.0
+2020-01-01,Tamil Nadu,33,Dharmapuri Rto,TN29,Medium Motor Vehicle,Mahindra,Vehicle Category,6.0
+2020-03-01,Himachal Pradesh,2,Rla Dharampur,HP86,Light Motor Vehicle,Bajaj,Vehicle Category,26.0
+2020-11-01,Haryana,6,Loharu,HR18,Light Motor Vehicle,Hero,Vehicle Category,125.0
+2020-10-01,Rajasthan,8,Bharatpur Rto,RJ5,Heavy Goods Vehicle,Hyundai,Vehicle Category,3.0
+2019-09-01,Tamil Nadu,33,Cuddalore Rto,TN31,Light Motor Vehicle,Maruti,Vehicle Category,121.0
+2023-08-01,Tamil Nadu,33,Thiruchendur Rto,TN606,Medium Goods Vehicle,Honda,Vehicle Category,8.0
+2023-04-01,West Bengal,19,Purba Burdwan Rto,WB41,Heavy Passenger Vehicle,Tata,Vehicle Category,3.0
+2020-12-01,Kerala,32,Konni Srto,KL83,Heavy Goods Vehicle,Mahindra,Vehicle Category,7.0
+2021-03-01,Haryana,6,Sdm Gharaunda,HR91,Other Than Mentioned Above,Bajaj,Vehicle Category,1.0
+2023-08-01,Tamil Nadu,33,Sivakasi Rto,TN604,Heavy Goods Vehicle,Hero,Vehicle Category,4.0
+2023-07-01,West Bengal,19,Dakshin Dinajpur Rto,WB61,Medium Passenger Vehicle,Hyundai,Vehicle Category,2.0
+2021-02-01,Maharashtra,27,Srirampur,MH17,Light Goods Vehicle,Maruti,Vehicle Category,83.0
+2022-01-01,Rajasthan,8,Sri Ganganagar Dto,RJ13,Three Wheeler(T),Honda,Vehicle Category,28.0
+2023-10-01,Uttar Pradesh,9,Ferozabad,UP83,Light Passenger Vehicle,Tata,Vehicle Category,38.0
+2021-03-01,Karnataka,29,Bantwala Arto,KA70,Medium Motor Vehicle,Mahindra,Vehicle Category,1.0
+2024-02-01,Tamil Nadu,33,Palani Rto,TN597,Two Wheeler(Nt),Bajaj,Vehicle Category,357.0
+2023-09-01,Tamil Nadu,33,Marthandam Rto,TN75,Light Goods Vehicle,Hero,Vehicle Category,41.0
+2021-07-01,Kerala,32,Thalassery Srto,KL58,Three Wheeler(Nt),Hyundai,Vehicle Category,1.0
+2019-07-01,Kerala,32,Punalur Srto,KL25,Medium Goods Vehicle,Maruti,Vehicle Category,4.0
+2022-09-01,Karnataka,29,Bijapur Rto,KA28,Light Motor Vehicle,Honda,Vehicle Category,714.0
+2024-03-01,Karnataka,29,Mysuru West Rto,KA9,Medium Goods Vehicle,Tata,Vehicle Category,2.0
+2020-01-01,West Bengal,19,Kalimpong Rto,WB78,Light Motor Vehicle,Mahindra,Vehicle Category,87.0
+2019-11-01,Uttar Pradesh,9,Shamli Arto,UP19,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2019-10-01,Tripura,16,Dhalai Dto,TR4,Light Passenger Vehicle,Hero,Vehicle Category,3.0
+2019-10-01,Jammu And Kashmir,1,Kishtwar Arto,JK17,Two Wheeler(Nt),Hyundai,Vehicle Category,95.0
+2019-03-01,Tamil Nadu,33,Krishnagiri Rto,TN24,Heavy Goods Vehicle,Maruti,Vehicle Category,17.0
+2024-02-01,Assam,18,Charaideo,AS33,Two Wheeler(Nt),Honda,Vehicle Category,488.0
+2022-01-01,Maharashtra,27,Aurangabad,MH20,Medium Goods Vehicle,Tata,Vehicle Category,11.0
+2022-05-01,Tamil Nadu,33,Madurai (South) Rto,TN58,Medium Goods Vehicle,Mahindra,Vehicle Category,3.0
+2023-09-01,Uttar Pradesh,9,Prayagraj Rto,UP70,Three Wheeler(T),Bajaj,Vehicle Category,935.0
+2024-03-01,West Bengal,19,Alipurduar Rto,WB69,Heavy Motor Vehicle,Hero,Vehicle Category,1.0
+2021-03-01,Maharashtra,27,Nandurbar,MH39,Medium Motor Vehicle,Hyundai,Vehicle Category,8.0
+2024-03-01,Rajasthan,8,Sujangarh Dto,RJ44,Medium Motor Vehicle,Maruti,Vehicle Category,1.0
+2022-10-01,Assam,18,Bongaigaon,AS19,Light Goods Vehicle,Honda,Vehicle Category,17.0
+2021-04-01,Haryana,6,Naraingarh,HR4,Two Wheeler(Nt),Tata,Vehicle Category,226.0
+2022-05-01,Bihar,10,Samastipur,BR33,Two Wheeler(Nt),Mahindra,Vehicle Category,5233.0
+2020-12-01,West Bengal,19,Contai Arto,WB31,Light Passenger Vehicle,Bajaj,Vehicle Category,3.0
+2020-06-01,Punjab,3,Sdm Maur Mandi,PB80,Two Wheeler(Nt),Hero,Vehicle Category,10.0
+2023-01-01,Gujarat,24,Anand,GJ23,Two Wheeler (Invalid Carriage),Hyundai,Vehicle Category,1.0
+2023-05-01,Rajasthan,8,Pratapgarh Dto,RJ35,Light Passenger Vehicle,Maruti,Vehicle Category,2.0
+2021-10-01,Tamil Nadu,33,Redhills Rto,TN18,Heavy Goods Vehicle,Honda,Vehicle Category,20.0
+2021-04-01,Andhra Pradesh,28,Hindupur Rta,AP102,Heavy Passenger Vehicle,Tata,Vehicle Category,726.0
+2020-08-01,Jharkhand,20,Gumla,JH7,Two Wheeler(Nt),Mahindra,Vehicle Category,443.0
+2023-06-01,Chhattisgarh,22,Bilaspur Rto,CG10,Medium Motor Vehicle,Bajaj,Vehicle Category,1.0
+2019-08-01,West Bengal,19,Howrah Rto,WB11,Light Motor Vehicle,Hero,Vehicle Category,238.0
+2020-09-01,Assam,18,Dibrugarh,AS6,Light Motor Vehicle,Hyundai,Vehicle Category,496.0
+2021-02-01,Gujarat,24,Jamnagar,GJ10,Heavy Goods Vehicle,Maruti,Vehicle Category,23.0
+2020-03-01,Punjab,3,Sdm Samrala,PB43,Light Goods Vehicle,Honda,Vehicle Category,81881.0
+2019-08-01,Andhra Pradesh,28,Bapatla Mvi Office,AP207,Heavy Goods Vehicle,Tata,Vehicle Category,12.0
+2023-05-01,Jharkhand,20,Ranchi,JH1,Light Motor Vehicle,Mahindra,Vehicle Category,1780.0
+2023-08-01,Tamil Nadu,33,Mayiladuthurai Rto,TN589,Light Passenger Vehicle,Bajaj,Vehicle Category,10.0
+2022-05-01,Tamil Nadu,33,Erode Rto,TN33,Medium Goods Vehicle,Hero,Vehicle Category,4.0
+2023-11-01,Tamil Nadu,33,Madurai (North) Rto,TN59,Medium Motor Vehicle,Hyundai,Vehicle Category,3.0
+2022-03-01,Rajasthan,8,Didwana Dto,RJ37,Light Goods Vehicle,Maruti,Vehicle Category,51.0
+2022-03-01,Tamil Nadu,33,Kancheepuram Rto,TN21,Light Goods Vehicle,Honda,Vehicle Category,42.0
+2022-07-01,Nagaland,13,Kohima Rto,NL1,Light Passenger Vehicle,Tata,Vehicle Category,38.0
+2021-04-01,Puducherry,34,Puducherry,PY1,Three Wheeler(T),Mahindra,Vehicle Category,5.0
+2022-09-01,Kerala,32,Kayamkulam Srto,KL29,Heavy Goods Vehicle,Bajaj,Vehicle Category,3.0
+2023-03-01,West Bengal,19,Purba Burdwan Rto,WB41,Three Wheeler(T),Hero,Vehicle Category,25.0
+2020-10-01,Arunachal Pradesh,12,Upper Siang,AR14,Light Goods Vehicle,Hyundai,Vehicle Category,4.0
+2020-10-01,Chhattisgarh,22,Janjgir Champa Dto,CG11,Light Passenger Vehicle,Maruti,Vehicle Category,2.0
+2023-04-01,Assam,18,Baska,AS28,Light Motor Vehicle,Honda,Vehicle Category,6.0
+2019-12-01,Haryana,6,"Rta, Kurukshetra",HR65,Medium Goods Vehicle,Tata,Vehicle Category,5.0
+2019-03-01,Kerala,32,Kottarakkara Srto,KL24,Heavy Goods Vehicle,Mahindra,Vehicle Category,10.0
+2022-12-01,Assam,18,Baska,AS28,Medium Goods Vehicle,Bajaj,Vehicle Category,1.0
+2023-01-01,Haryana,6,Ellnabad,HR44,Two Wheeler(Nt),Hero,Vehicle Category,200.0
+2019-02-01,Uttar Pradesh,9,Padrauna(Kushi Nagar),UP57,Medium Goods Vehicle,Hyundai,Vehicle Category,1.0
+2022-07-01,Jammu And Kashmir,1,Pulwama Arto,JK13,Medium Passenger Vehicle,Maruti,Vehicle Category,1.0
+2023-10-01,Tamil Nadu,33,Madurai (South) Rto,TN58,Light Motor Vehicle,Honda,Vehicle Category,250.0
+2022-05-01,Maharashtra,27,Washim,MH37,Heavy Passenger Vehicle,Tata,Vehicle Category,1.0
+2019-08-01,Haryana,6,Karnal,HR5,Two Wheeler (Invalid Carriage),Mahindra,Vehicle Category,1.0
+2022-09-01,Rajasthan,8,Bharatpur Rto,RJ5,Two Wheeler(Nt),Bajaj,Vehicle Category,1303.0
+2019-04-01,Uttar Pradesh,9,Ferozabad,UP83,Other Than Mentioned Above,Hero,Vehicle Category,2.0
+2019-11-01,Himachal Pradesh,2,Rla Kelang,HP42,Light Goods Vehicle,Hyundai,Vehicle Category,2.0
+2020-07-01,Himachal Pradesh,2,Rla Ghumarvi,HP23,Light Motor Vehicle,Maruti,Vehicle Category,125.0
+2019-07-01,Uttar Pradesh,9,Bahraich,UP40,Three Wheeler(T),Honda,Vehicle Category,127.0
+2024-02-01,Madhya Pradesh,23,Tikamgarh Dto,MP36,Other Than Mentioned Above,Tata,Vehicle Category,6.0
+2021-03-01,Maharashtra,27,Vasai,MH48,Light Motor Vehicle,Mahindra,Vehicle Category,857.0
+2022-09-01,Uttar Pradesh,9,Aligarh Rto,UP81,Heavy Goods Vehicle,Bajaj,Vehicle Category,57.0
+2019-03-01,Kerala,32,Chalakkudy Srto,KL64,Light Motor Vehicle,Hero,Vehicle Category,340.0
+2020-07-01,Karnataka,29,Mandya Rto,KA11,Two Wheeler (Invalid Carriage),Hyundai,Vehicle Category,2.0
+2019-07-01,Rajasthan,8,Udaipur Rto,RJ27,Other Than Mentioned Above,Maruti,Vehicle Category,10.0
+2019-08-01,Himachal Pradesh,2,Rla Paonta Sahib,HP17,Two Wheeler(Nt),Honda,Vehicle Category,289.0
+2020-09-01,Puducherry,34,Puducherry,PY1,Light Motor Vehicle,Tata,Vehicle Category,152.0
+2019-12-01,Sikkim,11,Mangan,SK3,Heavy Goods Vehicle,Mahindra,Vehicle Category,1.0
+2021-05-01,Karnataka,29,Kolar Rto,KA7,Other Than Mentioned Above,Bajaj,Vehicle Category,1.0
+2021-09-01,Bihar,10,Purnea,BR11,Light Goods Vehicle,Hero,Vehicle Category,287.0
+2020-03-01,Tamil Nadu,33,Coimbatore (Central) Rto,TN66,Medium Goods Vehicle,Hyundai,Vehicle Category,8.0
+2024-05-01,Rajasthan,8,Dungarpur Dto,RJ12,Light Passenger Vehicle,Maruti,Vehicle Category,7.0
+2022-03-01,West Bengal,19,Paschim Burdwan Rto,WB37,Other Than Mentioned Above,Honda,Vehicle Category,7.0
+2022-10-01,West Bengal,19,Murshidabad Rto,WB57,Light Goods Vehicle,Tata,Vehicle Category,29.0
+2021-03-01,Bihar,10,Rohtas,BR24,Heavy Goods Vehicle,Mahindra,Vehicle Category,8.0
+2019-07-01,Assam,18,Nalbari,AS14,Medium Passenger Vehicle,Bajaj,Vehicle Category,1.0
+2021-12-01,Odisha,21,Keonjhar Rto,OR9,Three Wheeler(T),Hero,Vehicle Category,38.0
+2024-03-01,Maharashtra,27,Panvel,MH46,Other Than Mentioned Above,Hyundai,Vehicle Category,27.0
+2020-05-01,Delhi,7,Dwarka,DL9,Light Goods Vehicle,Maruti,Vehicle Category,2693.0
+2024-04-01,Karnataka,29,Ramanagar Rto,KA42,Heavy Goods Vehicle,Honda,Vehicle Category,38.0
+2023-03-01,Tripura,16,West Tripura Jtc,TR1,Heavy Goods Vehicle,Tata,Vehicle Category,18.0
